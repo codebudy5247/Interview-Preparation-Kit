@@ -1,3 +1,5 @@
+# Important Concepts
+
 # REACT JS
 
 ![](https://bs-uploads.toptal.io/blackfish-uploads/blog/post/seo/og_image_file/og_image/167415/0120-Stale-while-revalidate_Data_Fetching_with_React_Hooks-Waldek_Social-2bf46136aefaebe37934c89c0820482b.png)
