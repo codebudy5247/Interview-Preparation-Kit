@@ -1,3 +1,7 @@
+<p align="center">
+  # Important Interview Questions
+</p> 
+
 # REACT JS
 
 ![](https://bs-uploads.toptal.io/blackfish-uploads/blog/post/seo/og_image_file/og_image/167415/0120-Stale-while-revalidate_Data_Fetching_with_React_Hooks-Waldek_Social-2bf46136aefaebe37934c89c0820482b.png)
@@ -111,6 +115,10 @@ A lazy component will be rendered inside the <𝗦𝘂𝘀𝗽𝗲𝗻𝘀𝗲> 
 **You can wrap multiple lazy components within a single <𝗦𝘂𝘀𝗽𝗲𝗻𝘀𝗲> Component.**
 
 ![](https://media-exp3.licdn.com/dms/image/C4D22AQFoIAoBR9yaJg/feedshare-shrink_2048_1536/0/1624027077321?e=1628121600&v=beta&t=fUjmSPPjTbrs7z9ypmLDbVkXMVV9Od0Pq9Myfq6FlOw)
+
+<div align="right">
+    <b><a href="#arrays">⬆️ Back to Top</a></b>
+</div>
 
 ### REACT HOOKS
 
@@ -291,6 +299,10 @@ Works similarly to Redux
 ### 🌑 react-query 
 
 [A magical way to fetch data in React](https://blog.dhaiwatpandya.com/a-magical-way-to-fetch-data-in-react)
+
+<div align="right">
+    <b><a href="#arrays">⬆️ Back to Top</a></b>
+</div>
 
 # REDUX
 
